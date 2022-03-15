@@ -3,7 +3,7 @@
 # Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Pratiksha Ghadge](https://github.com/pratiksha23-github)
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://drive.google.com/file/d/18LXfSXWMVDqWYQUo3iDX8370O_tTrTr6/view">
+<!-- <img src="https://www.canva.com/design/DAE7BNCNOCw/X7-LbyWoJzzoLE2Tdl23JQ/edit?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> -->
 
 
 
@@ -13,15 +13,12 @@
 
 - 🔭 I’m currently working on **Front End Project**
 
-- 🌱 I’m currently learning **ReactJs**
-
 - 👨‍💻 My portfolio [https://pratiksha-portfolio-website.netlify.app/](https://pratiksha-portfolio-website.netlify.app/)
 
 - 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **ghadgepratiksha23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l9SaTEhaeeqNo1bv0wY7xFDsfWHTHSRa/view](https://drive.google.com/file/d/1l9SaTEhaeeqNo1bv0wY7xFDsfWHTHSRa/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
