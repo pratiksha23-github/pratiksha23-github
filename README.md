@@ -1,4 +1,6 @@
-![](https://www.canva.com/design/DAE7BNCNOCw/Iy87lCtOGxhAR8R4BBDBPA/watch?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)
+<!-- ![](https://www.canva.com/design/DAE7BNCNOCw/Iy87lCtOGxhAR8R4BBDBPA/watch?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel) -->
+
+![](https://github.com/user/banner.png)
 
 <h1 align="center">Hi 👋, I'm Pratiksha Ghadge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
