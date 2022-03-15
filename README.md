@@ -3,7 +3,7 @@
 # Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Pratiksha Ghadge](https://github.com/pratiksha23-github)
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://www.canva.com/design/DAE7BNCNOCw/Iy87lCtOGxhAR8R4BBDBPA/watch?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel">
+<img src="https://drive.google.com/file/d/18LXfSXWMVDqWYQUo3iDX8370O_tTrTr6/view">
 
 
 
