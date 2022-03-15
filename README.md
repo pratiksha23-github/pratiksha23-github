@@ -1,9 +1,11 @@
 <!-- ![](https://www.canva.com/design/DAE7BNCNOCw/Iy87lCtOGxhAR8R4BBDBPA/watch?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel) -->
 
-![](https://github.com/user/banner.png)
-
-<h1 align="center">Hi 👋, I'm Pratiksha Ghadge</h1>
+# Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Pratiksha Ghadge](https://github.com/pratiksha23-github)
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img src="https://www.canva.com/design/DAE7BNCNOCw/Iy87lCtOGxhAR8R4BBDBPA/watch?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha23-github&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha23-github" /> </p>
 
