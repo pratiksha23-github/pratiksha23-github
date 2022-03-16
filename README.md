@@ -6,8 +6,10 @@
 <!-- <img src="https://www.canva.com/design/DAE7BNCNOCw/X7-LbyWoJzzoLE2Tdl23JQ/edit?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> -->
 
 
+![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/85682428/158598681-67a252a5-f845-4b09-a5ad-75814aae67d3.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha23-github&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha23-github" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha23-![Uploading Blue and White Architect LinkedIn Banner.png…]()
+github&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha23-github" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha23-github" alt="pratiksha23-github" /></a> </p>
 
