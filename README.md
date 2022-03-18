@@ -11,11 +11,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha23-![Uploading Blue and White Architect LinkedIn Banner.png…]()
 github&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha23-github" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha23-github" alt="pratiksha23-github" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha23-github" alt="pratiksha23-github" /></a> </p> -->
 
 - 👩‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
-
-- 👨‍💻 My portfolio [https://pratiksha-portfolio-website.netlify.app/](https://pratiksha-portfolio-website.netlify.app/)
 
 - 💬 Ask me about **Web Dev**
 
