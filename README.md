@@ -1,7 +1,7 @@
 <!-- ![](https://www.canva.com/design/DAE7BNCNOCw/Iy87lCtOGxhAR8R4BBDBPA/watch?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel) -->
 
 # Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Pratiksha Ghadge](https://github.com/pratiksha23-github)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <!-- <img src="https://www.canva.com/design/DAE7BNCNOCw/X7-LbyWoJzzoLE2Tdl23JQ/edit?utm_content=DAE7BNCNOCw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> -->
 
@@ -13,7 +13,7 @@ github&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha23-github" /
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha23-github" alt="pratiksha23-github" /></a> </p> -->
 
-- 👩‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
+- 👩‍🎓 I have completed my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 
 - 💬 Ask me about **Web Dev**
 
